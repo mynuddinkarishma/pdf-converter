@@ -1,0 +1,9 @@
+node_modules/
+uploads/
+.env
+.DS_Store
+frontend/node_modules/
+frontend/dist/
+frontend/android/.gradle/
+frontend/android/app/build/
+frontend/android/build/

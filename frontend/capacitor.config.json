@@ -1,0 +1,5 @@
+{
+  "appId": "com.pdfconverter.app",
+  "appName": "PDF Converter",
+  "webDir": "dist"
+}
